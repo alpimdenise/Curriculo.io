@@ -1,0 +1,49 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;  /*deixa barra rolagem suave*/
+    padding: 10ch;
+}
+
+
+.linkedin{
+    width: 30px;
+}
+
+ body{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    caret-color: black;
+    padding: 150;
+    margin: auto;
+    border: 30px solid #000;
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: brown;
+}
+
+h3{
+    color: brown;
+}
+
+.class{
+    color: brown; 
+}
+
+img{
+    align-content: center;
+}
+div{
+    
+}
